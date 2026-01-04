@@ -1,0 +1,12 @@
+# Voice Code Assistant - Dependencies
+# Install dengan: pip install -r requirements.txt
+
+pynput>=1.7.6          # Global hotkey listener
+sounddevice>=0.4.6     # Audio recording
+scipy>=1.11.0          # Save audio to WAV
+numpy>=1.24.0          # Audio processing
+pyautogui>=0.9.54      # Simulate keyboard/mouse
+pyperclip>=1.8.2       # Clipboard operations
+requests>=2.31.0       # API calls
+groq>=0.4.0            # Groq API (free speech-to-text)
+keyboard>=0.13.5       # Alternative hotkey (backup)

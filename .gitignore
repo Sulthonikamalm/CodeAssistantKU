@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.wav
+config.txt.bak
+config.txt
+*.log
